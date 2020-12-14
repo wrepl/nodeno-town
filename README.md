@@ -1,4 +1,4 @@
-# nodeno-land
+# nodeno-town
 
 A lightweight HTTP wrapper for deno.town REPL website.
 
