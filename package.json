@@ -1,0 +1,22 @@
+{
+  "name": "nodeno-town",
+  "version": "1.0.0",
+  "description": "A lightweight HTTP wrapper for deno.town REPL website",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuspiciousLookingOwl/nodeno-town.git"
+  },
+  "keywords": [
+    "deno",
+    "typescript"
+  ],
+  "author": "SuspiciousLookingOwl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuspiciousLookingOwl/nodeno-town/issues"
+  },
+  "homepage": "https://github.com/SuspiciousLookingOwl/nodeno-town#readme"
+}
